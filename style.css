@@ -1,0 +1,142 @@
+.container1{
+    height: 10px;
+    background-color: white;
+    
+}
+.container2{
+    padding-top: 0%;
+    margin: 0%;
+    height: auto;
+    background-color: #FF3CAC;
+background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+
+}
+.container3{
+    height: auto;
+    background-color: whitesmoke;
+    margin: 10px;
+}
+.container4{
+    background-color: white;
+    height: auto;
+}
+
+#h1{
+    padding-top: 15px;
+    color:#410056 ;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    font: Arial;
+    padding-bottom: 15px;
+}
+#h2{
+    padding-top: 15px;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    font: Arial;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+    
+#h3{
+    padding-top: 10px;
+    color: gray;
+    font-size: 20px;
+    text-align: center;
+    font: Arial;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+    line-height: 35px;
+    padding-bottom: 10px;
+}
+#h4{
+    padding-top: 20px;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+body{
+    background-color: white;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#btn{
+    margin: 15px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-phone {
+    color: white;
+    border-radius: 15%;
+  }
+
+  .fa-whatsapp {
+    color: white;
+    border-radius: 45%;
+    box-shadow: white;
+  }
+  .fa-map {
+    color: white;
+    border-radius: 45%;
+    box-shadow: white;
+  }
+  .scroll{
+      color: black;
+      font: 1em sans-serif;
+  }
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: #410056 ;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: #410056;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+
+
+
+  
